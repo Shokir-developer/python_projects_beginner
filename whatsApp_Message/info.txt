@@ -1,0 +1,3 @@
+Bu kod WhatsApp ga Pytho orqali sms xabar jonatishni o'rgatadi. Birinchi navbatda 
+"pip install pywhatkit" o'rnatiladi, keyin import qilimadi. Obyekt yaratiladi 'pywhatkit'
+va 'sendwhatmsg' funksiyasi ishlatiladi

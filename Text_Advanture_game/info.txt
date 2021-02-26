@@ -1,0 +1,3 @@
+Text Advanture Game to'liq so'z bilan o'ynaladigan o'yin. 
+Foydalanuvchi kerakli yo'nalashni taxminan tanlaydi va
+to'g'ri yoki noto'g'roligini bilib oladi.

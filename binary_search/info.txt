@@ -1,0 +1,1 @@
+Binary Search bu ro'yxatdagi elementning indexini topadi

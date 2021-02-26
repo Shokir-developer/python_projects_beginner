@@ -1,0 +1,2 @@
+bu loyiha ixtiyoriy websitelarni kerakli vaqt oraliqlari uchun blocklaydi.
+host file yordamida.

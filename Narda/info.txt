@@ -1,0 +1,2 @@
+Bu dasturda narda o'yinidagidek 2 ta tosh tashlanadi
+va uning qiymatlari ekranga chiqariladi.
